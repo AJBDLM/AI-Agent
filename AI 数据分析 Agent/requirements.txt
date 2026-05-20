@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+openai
+pandas
+duckdb
+plotly
+python-dotenv
+streamlit
+langchain
+langgraph
+numpy
+scikit-learn
+requests
